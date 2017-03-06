@@ -12,6 +12,6 @@
         <title>Error</title>
     </head>
     <body>
-        <h1>Comando desconocido.</h1>
+        <h6>Comando desconocido.</h6>
     </body>
 </html>
