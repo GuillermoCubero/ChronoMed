@@ -6,3 +6,5 @@ De esta manera el paciente podrá compartir la información a todos los médicos
 
 Framework de desarrollo: Java EE. 
 Entorno de desarrollo: NetBeans.
+
+Visítalo en: http://mealtera.com:8080/ChronoMed/
